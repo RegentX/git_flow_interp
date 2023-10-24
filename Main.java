@@ -1,16 +1,10 @@
-import java.util.List;
-
-class Main{
-    public static void main(String[] args) {
-        System.out.print("Это добавлено в ветке main");
-        System.out.print("Zoi zhiv");
-        int sqrNine = 3^2;
-        System.out.print(sqrNine);
-        int[] nums = new int[]{1, 2, 3, 4, 5};
-        for (int e: nums
-             ) {
-            System.out.print(e);
-        }
-
+class Main {
+    public static void main(String [] args) {
+        String great = "great";
+        System.out.println(great);
+        String lang = "Kotlin";
+        System.out.print(lang);
+        System.out.print("Useless job done for git flow");
     }
+
 }

@@ -1,10 +1,10 @@
 class Main {
-    void main(String [] args) {
+    public static void main(String [] args) {
         String great = "great";
         System.out.println(great);
         String lang = "Kotlin";
         System.out.print(lang);
-        System.out.print("Useless job done for git flow");
+        System.out.print("Not a Useless job done for git flow");
     }
 
 }

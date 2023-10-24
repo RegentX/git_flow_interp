@@ -4,6 +4,7 @@ class Main {
         System.out.println(great);
         String lang = "Kotlin";
         System.out.print(lang);
+        System.out.print("Useless job done for git flow");
     }
 
 }

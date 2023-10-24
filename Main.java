@@ -7,7 +7,10 @@ class Main{
         int sqrNine = 3^2;
         System.out.print(sqrNine);
         int[] nums = new int[]{1, 2, 3, 4, 5};
-
+        for (int e: nums
+             ) {
+            System.out.print(e);
+        }
 
     }
 }
